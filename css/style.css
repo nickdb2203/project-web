@@ -1,0 +1,37 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1em;
+}
+
+footer {
+    border-top: 1px solid black;
+    margin-top: 10em;
+}
+
+header {
+    background-color: rgb(247, 247, 247);
+    height: 3em;
+    line-height: 16px;
+}
+
+header img {
+    height: 2.5em;
+    width: 3em;
+}
+
+li {
+    display: inline;
+}
+
+nav a {
+    color: #00d66c;
+    float: right;
+    margin-right: 1em;
+    text-decoration: none;
+    padding-top
+
+}
+
+ul {
+    display: inline;
+}
